@@ -94,7 +94,7 @@ The application utilizes:
 * Multinomial Naive Bayes
 * Train-Test Split Validation
 
-### Workflow
+## Workflow
 
 * Data Cleaning
 * Feature Extraction
