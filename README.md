@@ -301,12 +301,13 @@ http://localhost:8501
 
 # 📚 Dataset Information
 
-- **Dataset:** SMS Spam Collection Dataset
-- **Total Messages:** 5,572
-- **Spam Messages:** 747
-- **Legitimate Messages:** 4,825
-- **Classification Type:** Binary Classification
-- **Domain:** Natural Language Processing (NLP)
+| Attribute | Value |
+|-----------|-------|
+| Total Messages | 5,572 |
+| Spam Messages | 747 |
+| Legitimate Messages | 4,825 |
+| Dataset Type | SMS Text Messages |
+| Classification Type | Binary Classification |
 
 ---
 
